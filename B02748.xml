@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doting Athenians imposing questions, no proofs. In answer to their questions and most apparent mistakes, about the people commonly called Quakers and their profession. This being our 5th. answer to their Mercuries of the 7th. 11th. and 14th. of June last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02748</idno>
+            <idno type="STC">Wing D1954A</idno>
+            <idno type="STC">ESTC R174714</idno>
+            <idno type="EEBO-CITATION">52614618</idno>
+            <idno type="OCLC">ocm 52614618</idno>
+            <idno type="VID">175839</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175839)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2752:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doting Athenians imposing questions, no proofs. In answer to their questions and most apparent mistakes, about the people commonly called Quakers and their profession. This being our 5th. answer to their Mercuries of the 7th. 11th. and 14th. of June last.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott in George-yard in Lombard-Street,</publisher>
+                  <pubPlace>[London:</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: torn with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175839:1" rendition="simple:additions"/>
+            <head>The Doting ATHENIANS Impoſing QUESTIONS, no PROOFS. IN <hi>ANSWER to their Q<g ref="char:V">Ʋ</g>ESTIONS and moſt apparent MISTAKES, about the People commonly called</hi> QUAKERS <hi>and their Profeſſion.</hi> This being our <hi>5th.</hi> Anſwer to their <hi>Mercuries</hi> of the <hi>7th. 11th.</hi> and <hi>14th.</hi> of <hi>June</hi> laſt.</head>
+            <epigraph>
+               <bibl>1 Tim. 6. 4.</bibl>
+               <q>—Doting about Queſtions and Strifes of Words, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>WHAT Juſtice or Fair-Dealing can we expect from Perſons vainly puft up by their Fleſhy Minds? You pretended <hi>Athenians</hi> have made too much haſte to make good ſpeed; you are too precipitant and prepoſterous in your Pro<g ref="char:EOLhyphen"/>ceedings againſt us to do us right; you are ſo Credulous, to take Things on truſt againſt us, as thereupon to Charge, Sentence, Con<g ref="char:EOLhyphen"/>demn and Brand us with Infamy, before any Judicial Tryal.</p>
+            <p>Firſt you paſs Sentence on us, and then heap Queſtions upon us to find out Matter againſt us. You ground much of your Charge in your <hi>Mercury</hi> of <hi>June</hi> the <hi>14th.</hi> upon a Book, called, <hi>Sweet Sips of Spiritual Wine,</hi> in which there is a ſmall Tract, called, <hi>John the Divine's Divinity,</hi> Printed by <hi>Giles Calvert,</hi> which you <hi>call a famous Book of theirs</hi> (meaning the Quakers) and you believe, <hi>one of the firſt ever Printed by any of their Gang; and is indeed</hi> (you ſay) <hi>the moſt regular and faireſt Syſtem of Quakeriſm you yet ever ſaw.</hi>
+            </p>
+            <p>And from this, you think, you have given us a very fatal Blow; but herein you are more Credulous than Diſcreet; for that Book is none of our's; it is none of the Quaker's either in <hi>Title</hi> or <hi>Style:</hi> You ſhould firſt have better Inform'd your ſelves whether the Au<g ref="char:EOLhyphen"/>thor was a Quaker, and an approved Writer among them, before you had Charged us with the ſaid Book, ſeeing much of your Charge is taken out of it.</p>
+            <p>Not only to prove your falſe Charge, <hi>That we deny the diſtinct Exi<g ref="char:EOLhyphen"/>ſtence of the Soul after Death,</hi> but alſo, <hi>That the Quakers deny An<g ref="char:EOLhyphen"/>gels, Spirits, Heaven and Hell,</hi> you quote the ſaid Book, <hi>Sweet Sips,</hi> &amp;c. which you refer to many times over; from whence you Charge us not only with <hi>denying Angels, Spirits, Heaven and Hell,</hi> but ſay, <hi>You'l prove we aſſert the contrary;</hi> for which you quote <hi>Sweet Sips</hi> again. But after you have given your Charge, you do but very poorly beg the Queſtion, <hi>viz. Let 'em, if they can, ſhew us any of their Writers, wherein any of theſe are aſſerted as diſtinct Subſtances or distinct States or Places for Puniſhments or Rewards after this Life is ended.</hi> However to this purpoſe we have often aſſerted, as really believing both diſtinct Angels and Spirits, as to their Beings or diſtinct Spiritual Subſtan<g ref="char:EOLhyphen"/>ces; as alſo Heaven and Hell, as diſtinct States and Places for Pu<g ref="char:EOLhyphen"/>niſhments and Rewards after this Life is ended. We never knew theſe doubted of among us, but often Preached and Affirmed in Words and Writings: But how do you prove <hi>we aſſert the contrary?</hi> For this you quote <hi>Sweet Sips,</hi> chap. 22. <hi>viz.</hi> 
+               <q>The Angels are Intituled <hi>Miniſtring Spirits,</hi> &amp;c. the Myſtery of it is this, a Figure of God's many Bleſſings, alſo gracious Providences. Thus <hi>Jacob</hi> called his Brothers favour an Angel: Fallen Angels are bad Spi<g ref="char:EOLhyphen"/>rits, termed Devils, <hi>i. e.</hi> The Authors of Evil, this is a Figure of God's Mind concerning the Myſtery of Iniquity; they may alſo type out croſs Diſpenſations, <hi>p.</hi> 50. Divine Love is Heaven, Hell is dreadful Apprehenſions of God, Sin is the Brimſtone of this Hell, the Diſcoveries of God are Heaven and Hell, his Gra<g ref="char:EOLhyphen"/>cious and his Wrathful Preſence, there is no other Place.</q> And thus, you ſay, <hi>You have proved all your Charge; whence it follows</hi> (ſay you) <hi>as you aſſerted, That Quakeriſm is really a Compendium of all Here<g ref="char:EOLhyphen"/>ſies</hi> (thus you.)</p>
+            <p>But ſtop, you run too faſt, How have you <hi>thus</hi> proved all your Charge againſt the Quakers? What, by falſly Intitling them to an Author, a Book which was never theirs, nor Authorized by them? As we preſume you will never prove your <hi>Sweet Sips</hi> to be the Qua<g ref="char:EOLhyphen"/>kers. And yet you wrong that too, for therein <hi>Angels</hi> are confeſſed, <hi>That they were Created good pure Spirits,</hi> chap. 22. Your ſaying, <hi>You have thus proved all your Charge,</hi> is ſo notoriouſly falſe, that it makes us take the leſs notice of the reſt of your groundleſs Accuſations in your Paper, being minded, to try you in this, if you'l be ſo Inge<g ref="char:EOLhyphen"/>nuous, as to retract this your Authority, as well as your other Fal<g ref="char:EOLhyphen"/>ſhoods Charged, as that of the <hi>Soul's Sleeping,</hi> and that groſs Lye againſt <hi>John Whitehead.</hi>
+            </p>
+            <p>When you have Charged us with <hi>Denying the Reſurrection of the Body,</hi> this Untruth you contradict your ſelves, by what you place on us, from your Author (whom you Inticle us to) <q>
+                  <hi>That the being riſen with Chriſt is the firſt Reſurrection, and there is a ſecond Reſurrection of the Body, when the Natural ſhall be made Spiritual, and <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Mortal Immortal.</hi>
+               </q> But your Inſtance, <hi>That</hi> G. Whitehead, <q>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> 
+                  <hi>hundred People, plainly acknowledged, That he did not believe his <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould riſe again after Death.</hi>
+               </q> In this you are miſinformed, thoſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not his Words, <q>
+                  <hi>But that he did not believe his Body ſhould be the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at it now is, a Natural Earthly Body,</hi> but a <hi>Spiritual Heavenly</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccording to 1 <hi>Cor.</hi> 15. 37, 38, 40, 44.</q>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Charge, <hi>That they</hi> (i. e. the Quakers) <hi>deny the Divinity of</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is alſo utterly falſe: As it is alſo, <hi>That they deny his Humanity;</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Chriſt's Manhood or his being <hi>Man,</hi> which we never <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>After you have unduly paſſed your ſevere Sentence and Condem<g ref="char:EOLhyphen"/>nation upon us (the People call'd Quakers) and what you falſly term <hi>our Opinions,</hi> and as falſly pretend to have proved them all, you are fain to impoſe Queſtions on the ſame Subjects charged, being very inquiſitive for a diſtinct Anſwer to your ten Queſtions, though we find they amount rather to three times ten (ſeveral being crowded together in one) that by your doting in Queſtions you might find Proof (if you could) for your unproved previous Charge unduly exhibited; but divers of your Queſtions appearing both Unlearned, and in Terms Unſcriptural as well as Impertinent, to affect us or our Principles, we have Power, in point of our Chri<g ref="char:EOLhyphen"/>ſtian Liberty, not to accept (but ſhun) ſuch unlearned ones; and ſince you have ſo ſeverely prejudged and condemned us all, before Tryal, as <hi>Hereticks, blaſphemous Idolaters,</hi> &amp;c. we may juſtly ſuperſede your Sentence, and call you in Queſtion for the ſame: We have as much right to Catechize you, as you us; and <hi>as Men</hi> we are not bound to anſwer your Interrogatories, after you have Condemned us; but <hi>as Chriſtians,</hi> we condeſcend to give you a better Anſwer than your Queſtions or you either have merited from us.</p>
+            <p>
+               <label>Queſt. 1.</label> 
+               <hi>Whether you do not all poſitively deny the Bible to be the Word of God?</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> We do not deny the Holy Scriptures therein contain'd, to be the <hi>Words of God,</hi> but queſtion where they poſitively term the Bible <hi>the Word of God?</hi> Pray anſwer by plain Scripture, ſeeing Chriſt is therein called <hi>the Word of God,</hi> and in the beginning was the Word; and <hi>the Word</hi> being often mentioned with reſpect to that Di<g ref="char:EOLhyphen"/>vine Power which upholds all things, and which giveth Men Life, Light and Underſtanding, and from whence the Holy Scriptures firſt proceeded.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And whether there was ever one of your Writers who granted it?</hi>
+            </p>
+            <p>
+               <label>A.</label> Probably ſome have; though not in a ſtrict and proper Senſe and Scriptural way of Speaking, but in a Figurative; putting <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Words</hi> or Sayings of God for the <hi>Word</hi> from whence they proceeded.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether they do not affirm and eſteem it imperfect, and no compleat Rule of Faith and Manners?</hi>
+            </p>
+            <p>
+               <label>A.</label> To the firſt part<g ref="char:punc">▪</g> 
+               <hi>No,</hi> if you mean the Holy Scriptures; <hi>the Law of the Lord is perfect,</hi> the <hi>Divine Truths</hi> and Doctrin contain'd therein being given by Divine Inſpiration, are perfect. To the laſt part, by <hi>compleat Rule of Faith and Manners;</hi> Do you mean the whole Bible, both old and new Teſtament? Or do you mean the Scripture or Writings therein abſtractly and literally taken, without Interpre<g ref="char:EOLhyphen"/>tation? If with Interpretation, who muſt be the Interpreter? Is not the Spirit of Truth the beſt Interpreter? And how can this be excluded a <hi>Compleat Rule?</hi> Or to take you in the beſt Senſe, do you not intend <q>
+                  <hi>The Cooperation of God's Spirit together with thoſe Divine Truths contained in the Scripture working</hi> in us <hi>Faith and Obedience</hi>
+               </q> (as your own Word are?) Do you not think all this Eſſential to a <hi>Com<g ref="char:EOLhyphen"/>pleat Rule of Faith and Practice?</hi> Though we freely grant the Holy Scripture (as it cannot be broken) is not only a <hi>Rule</hi> of Doctrin, but contains many very precious Rules to be believed and practiſed; <hi>The principal Supream Guide and Rule of Faith,</hi> being the Spirit Chriſt promiſed to guide true Believers into all Truths.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And whether you think not your own Writings of equal AUthority with it</hi> (i. e. <hi>the Bible?) (A.</hi> No.)</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And</hi> whatever <hi>any true Quaker either Writes or Speaks (in their publick Aſſemblies) to be really as Infallible as what was Spoken or Written by our Saviour or any of his Apoſtles?</hi>
+            </p>
+            <p>
+               <label>A.</label> 
+               <hi>No;</hi> But <hi>whatever</hi> the Spirit of Chriſt ſpeaks <hi>in</hi> and <hi>by</hi> ſuch or any other fearing God: The Truth is unalterably the ſame for ever.</p>
+            <p>
+               <label>Q. 2.</label> 
+               <hi>Whether you own Jeſus Chriſt, who was born of the Virgin, to be God equal with the Father from all Eternity?</hi>
+            </p>
+            <p>
+               <label>A.</label> The ſame Jeſus Chriſt, the <hi>Emanuel,</hi> God with us; God ma<g ref="char:EOLhyphen"/>nifeſt in Fleſh, was certainly God, in relation to his Divine Being, from all Eternity, though as born of the <hi>Virgin,</hi> according to the Fleſh, he was Man, of the Seed of <hi>David.</hi>
+            </p>
+            <p>
+               <label>Q.</label> 
+               <hi>And whether you own the</hi> Man, <hi>who was of the Seed of</hi> David <hi>and born of the Virgin and ſuffered upon the Croſs, to be the true Chriſt, your Chriſt and God, bleſſed for ever?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, we own him to be the true Chriſt, our Chriſt, and alſo God, bleſſed for ever, <hi>Rom.</hi> 9. 5.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether you expect to be ſaved</hi> only <hi>by the Merits of what he then ſuffered?</hi>
+            </p>
+            <p>
+               <label>A.</label> Our Salvation is <hi>only</hi> by Chriſt, our Saviour and Redeemer, both with reſpect to the Merits of what he then ſuffered for us, and alſo to his work of Grace in us, to ſave us from Sin and Condem<g ref="char:EOLhyphen"/>nation, being reconciled by his Death, that we may be ſaved by his Life. 'Tis <hi>only</hi> by his Merits and Work, and not by our own.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Or whether you think the ſame Christ really ſuffered for you, who now ſins in Heaven at the right hand of the Father?</hi>
+            </p>
+            <pb facs="tcp:175839:2"/>
+            <p>
+               <label>A.</label> Yea, the ſame Chriſt really ſuffered for us and for all Man<g ref="char:EOLhyphen"/>kind; he taſted Death for every Man, he died for our Sins, and roſe again for our Juſtification. [We ſee by this your <hi>Queſtion</hi> what young Students you are (and how unskilful) in our Chriſtian Principles and Profeſſion, and what ſtrange and groundleſs Jealouſies you have harboured againſt us.]</p>
+            <p>
+               <label>Q. 3.</label> 
+               <hi>Whether you own the Holy Spirit to be God,</hi> diſtinct <hi>from the Fa<g ref="char:EOLhyphen"/>ther and Son? or any of their Properties are diſtinct from each other?</hi>
+            </p>
+            <p>
+               <label>A.</label> We ask you, Whether the Father, Son, and Holy Spirit, be not <hi>One God,</hi> bleſſed for ever? We ſay, <hi>Yea;</hi> what ſay you? And where doth the Scripture ſo term the Holy Spirit, <hi>God, diſtinct from the Father and the Son?</hi> Or when you ſay, The Father is God, the Son is God, the Holy Ghoſt is God, do you mean, that each is God, <hi>diſtinct</hi> from the other? would that be good Doctrin, think ye? And what mean you by <hi>their Properties, diſtinct from each o<g ref="char:EOLhyphen"/>ther?</hi> Is it not proper to the Son to be called Father? Yea, the E<g ref="char:EOLhyphen"/>verlaſting Father? and to the Son to be <hi>ſent,</hi> or to <hi>proceed</hi> from the Father, as well as the Holy Ghoſt?</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether you own the Holy Trinity, or Three Perſons, and One God, bleſſed for ever?</hi>
+            </p>
+            <p>
+               <label>A.</label> If by <hi>Trinity,</hi> be meant the three Divine Witneſſes in Hea<g ref="char:EOLhyphen"/>ven, 1 <hi>Joh.</hi> 5. 7. we own them to be <hi>One God, bleſſed for ever.</hi>
+            </p>
+            <p>
+               <label>Q. 4.</label> 
+               <hi>Whether you own your Light within to be God the Father, Son, or Holy Ghoſt, or all three together, or only their Grace and Operation with<g ref="char:EOLhyphen"/>in you?</hi>
+            </p>
+            <p>
+               <label>A.</label> We own our Light within to be <hi>a Divine Light</hi> of God and Chriſt; 'tis a Light of both the Father, Son, and Holy Spirit, who are One inſeperable <hi>Being</hi> and Fountain of Light; <hi>God (who is above all, and through all, and in you all)</hi> is our Light and our Salvation, whoſe Light in us and all Men (though gradually made known to us) is a Divine Principle of Life and Grace, which is more than an Operation <hi>only.</hi>
+            </p>
+            <p>
+               <label>Q. 5.</label> 
+               <hi>Whether you partake of either of the Sacraments in your Aſſem<g ref="char:EOLhyphen"/>blies, and don't abſolutely neglect 'em as they are outward Symbols uſed by all others who wou'd be accounted Chriſtians?</hi>
+            </p>
+            <p>
+               <label>A.</label> What Rule in Scripture have you for the word <hi>Sacraments?</hi> and for applying that term to the Elements of Bread and Wine? The ſubſtance whereof, or things ſignified, (by thoſe outward ſigns) we partake of in our Chriſtian Communion; which you have nothing to do withal.</p>
+            <p>
+               <label>Q. 6.</label> 
+               <hi>Whether you believe Angels or any immaterial Spirits, beſides the Soul of Man?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yes, we believe there are <hi>Angels</hi> which are Miniſtring Spirits, beſides the Soul of Man. What you mean by <hi>[immaterial Spirits]</hi> is a queſtion, ſeeing you ſeem (in your 11th Article) to grant, <hi>Angels, Spirits,</hi> to be <hi>diſtinct Subſtances? i. e.</hi> then, by your learned definition, <hi>Angels</hi> muſt be <hi>diſtinct Subſtances</hi> without matter or ſubſtance; <hi>diſtinct Subſtances,</hi> yet <hi>immaterial Spirits.</hi> Pray where had you this Learn<g ref="char:EOLhyphen"/>ing?</p>
+            <p>
+               <label>Q. 7.</label> 
+               <hi>Whether you believe the Soul of Man to have had any Beginning or diſtinct Exiſtence thereof after Death?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, both; that the Soul of Man had a Beginning and muſt have a diſtinct Exiſtence or Being after Death. We really believe we ſhall be individually and numerically the ſame Souls preſerved in our diſtinct Beings, by him that gave us life and being, and that our Souls ſhall be as many in Number after Death as now they are before Death. And therefore your Charge of the <hi>Soul being intirely abſorpt (i. e.</hi> ſupt or ſwallowed up) <hi>in God, ſo as to loſe its individua<g ref="char:EOLhyphen"/>tion,</hi> is an ignorant, idle and falſe Charge; 'twas the old Ranters Notion, never our's.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether you don't in terms deny the Reſurrection of the Body?</hi>
+            </p>
+            <p>
+               <label>An.</label> No.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And call thoſe fools who affirm we ſhall riſe with the</hi> ſame <hi>Bodies we had while living?</hi>
+            </p>
+            <p>
+               <label>A.</label> The Apoſtle calls ſuch fools alſo who queſtion with <hi>what bo<g ref="char:EOLhyphen"/>dy,</hi> &amp;c. and tells them, <hi>thou ſoweſt</hi> not <hi>that body that ſhall be,</hi> and di<g ref="char:EOLhyphen"/>ſtinguiſheth between the Natural Body and the Spiritual Body, be<g ref="char:EOLhyphen"/>tween Bodies Coeleſtial and Bodies Terreſtrial, 1 <hi>Cor.</hi> 15. ch.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>Whether you believe any real Reſurrection, or mean any thing beſides Regeneration in this Life?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, a Real Reſurrection, not only by Regeneration from Sin, but from Sufferings here; and unto Glory hereafter.</p>
+            <p>
+               <label>Q.</label> 
+               <hi>And whether you think every Man's Soul ſhall be reunited to a diſtinct Body at the Day of Judgment?</hi>
+            </p>
+            <p>
+               <label>A.</label> Yea, to diſtinct Body, proper to it, as it ſhall pleaſe God to give it, 1 <hi>Cor.</hi> 15.</p>
+            <p>
+               <label>Q. 8.</label> 
+               <hi>Who was your firſt Founder? Or, to avoid Cavils, who do you eſteem your firſt Reſtorer? Or who firſt taught Quakeriſm, as Quakeriſm, here in</hi> England, <hi>or in any other Nation?</hi>
+            </p>
+            <p>
+               <label>A.</label> Chriſt Jeſus was our firſt Founder, Foundation and Reſtorer, and he made uſe of ſeveral Inſtruments, as he pleaſed, powerfully to preach Him and his Name and Power among us. Your term <hi>Qua<g ref="char:EOLhyphen"/>keriſm</hi> we reject, as being a Nick-name, in ſcorn and contempt caſt upon our Chriſtian Religion and Profeſſion.</p>
+            <p>
+               <label>Q. 9.</label> 
+               <hi>Did your People Quake and Tremble or no, when they firſt ap<g ref="char:EOLhyphen"/>peared in</hi> England? <hi>Do they Quake now? If not, what you give as the Reaſon of one and t'other?</hi>
+            </p>
+            <p>
+               <label>A.</label> Many did and ſome do both fear and tremble at the Word of the Lord in ſeveral ſtates, conditions and exerciſes, (becauſe of the Glory of the Lord, and of his glorious Power that's riſen in our day) as his Servants did in former Ages; though you ſeem but ſcornfully to queſtion us in this matter.</p>
+            <p>
+               <label>Q. 10.</label> 
+               <hi>Where we may find your Creed or any account of your Religion? and whether 'tis not alter'd in ſeveral particulars ſince your riſe?</hi>
+            </p>
+            <p>
+               <label>A.</label> Come and ſee, come into the true Light and ſee, and you may find our Creed, our Belief, our living Faith in Chriſt Jeſus the Author of it, the ſame, not altered, but the true Apoſtolical Creed; and therefore neither need nor ſhall we ſubſcribe to any at your demand; and to what purpoſe ſhould we give you one, that is, a Creed of our own for you to credit us, ſince you have ſo groſly re<g ref="char:EOLhyphen"/>proached and ſtigmatized us and our Profeſſion, as you have done, to diſcredit us with the Titles of <hi>Hereſies, dangerous and deteſtable Opinions, horrid Blaſphemies, Idolatry,</hi> &amp;c.? <hi>Merc. Jun.</hi> 7. And give Poſitive Judg<g ref="char:EOLunhyphen"/>ment, <hi>That Fanaticiſm, Enthuſiaſm and Infidelity together, make up the Creed of a Quaker.</hi>
+            </p>
+            <p>And yet now you are very ſolicitous to enquire and find out ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Creed; thus prepoſterous and contradictory you are in your pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cedure, firſt to give judgment, paſs ſentence, and then enquire o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Parties condemned by you for matter of fact againſt themſelves. May you not be ſorely aſhamed of ſuch extrajudicial proceedings, both contrary to common Law and Juſtice; and eſpecially ſeeing you have no power to impoſe an Oath <hi>Ex Officio</hi> to force perſons to b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their own accuſers and proſecutors? It had far better become you to have been ſparing of your ſentence and condemnation upon the <hi>Quaker</hi> and his <hi>Creed,</hi> until you had known it and been better inform<g ref="char:EOLhyphen"/>ed, as to matter of fact, charged by you. You ſay, <hi>It is in vain t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bring an Act of Parliament to prove our ſelves Chriſtians;</hi> but you mi<g ref="char:EOLhyphen"/>ſtake, we did not bring it for that end, but to ſhew you, that our <hi>Profeſſion</hi> is recognized by Act of Parliament as <hi>Chriſtian,</hi> but ſlighted by you, tho' it be a Profeſſion of our Belief, <hi>In God, the Father, and in his Son, Jeſus Chriſt, and in the Holy Spirit, one God, bleſſed for evermore,</hi> and withal acknowledging, <hi>the holy Scriptures of the Old and New Te<g ref="char:EOLhyphen"/>ſtament to be given by Divine Inſpiration.</hi> But tho' this has the Appro<g ref="char:EOLhyphen"/>bation of Parliament and Sanction of Law for our Exemption (or Liberty of Conſcience) from certain Penal Laws, yet you are not pleaſed with it no more than with our Liberty. You flatteringly, yet jeeringly, ſay of the Parliament, <hi>viz. For (with all reſpect poſſible to that Auguſt Aſſembly) there are other things which they can't do beſides making a Man a Woman.</hi> You might have been more mannerly to<g ref="char:EOLhyphen"/>wards that Aſſembly however than thus to <hi>Cant</hi> or <hi>Carp</hi> at their Pro<g ref="char:EOLhyphen"/>ceedings in the ſaid <hi>Act</hi> and <hi>Confeſſion</hi> in it; againſt which you can alſo confidently make your Exception, <hi>viz. There is not a word in't aſ<g ref="char:EOLhyphen"/>ſerting</hi> the Trinity of Perſons, <hi>nor of the Scriptures being the Word of God or Compleat Rule of Faith and Manners.</hi> It ſeems the Parliament wanted you to dictate to them. <hi>Here is not a word of aſſerting the Tri<g ref="char:EOLhyphen"/>nity of Perſons,</hi> (ſay you) and what then? is theirs defective there<g ref="char:EOLhyphen"/>fore? No. Therein it appears the Parliament was far more inge<g ref="char:EOLhyphen"/>nuous than your ſelves; they did not impoſe upon us an unſcriptu<g ref="char:EOLhyphen"/>ral Profeſſion, but were content with one in Scripture-terms; which you are not, but rather ſtriving about words, even when the thing you intend is granted in Scripture-phraſe. This your Affront to the Parliament does not beſpeak your Humility, no more than your Tur<g ref="char:EOLhyphen"/>bulent Work of ſcandalouſly Libellizing and Branding peaceable Subjects, even a whole Body of Chriſtian People, with being <hi>Blaſphe<g ref="char:EOLhyphen"/>mers, Hereticks,</hi> &amp;c. to make diviſion among the People, as if nothing leſs than Perſecution would ſatiate your Envy.</p>
+            <p>And ſeeing your Faith ſtands ſo much in Words and Terms, we would ask you what Rule you have in the holy Scriptures for the words, <hi>Trinity of Perſons?</hi> or had you them not rather from your Mother-Church? and if ſo, then the Scripture is not the Rule of your Faith therein, but the Church. And then how eſteem you the Scriptures <hi>the compleat Rule of your Faith?</hi> You ſeem to ask pardon for your accuſation about the <hi>Soul's ſleeping after Death;</hi> but then in<g ref="char:EOLhyphen"/>ſtead of true Repentance, you add two groſs Falſhoods to it, <hi>viz. That we hold after Death no Soul, no Reſurrection.</hi> Alſo your groſs ly<g ref="char:EOLhyphen"/>ing ſtory againſt <hi>John Whitehead,</hi> about his monſtrous Bigneſs, you endeavour to extenuate, by telling us, <hi>That the extravagant pleaſantneſs of the Relation</hi> (i. e. <hi>of that unlucky Story,</hi> as you call it) <hi>tempted you beyond your Deſign.</hi> But this will not excuſe your blind Credulity of a lying Story, nor your malicious Confidence in divulging it to the <hi>Nation,</hi> which you greatly abuſe with theſe your Libels: And you have many more lying Stories againſt us in general, to retract parti<g ref="char:EOLhyphen"/>cularly: 1. <hi>That the Quakers uſe to ſay, that there St.</hi> Paul <hi>had not the Spirit, (viz.</hi> in ſaying, <hi>God is my witneſs,</hi> Rom. 1. 9. <hi>God knoweth that I lye not,</hi> 2 Cor. 11. 31, <hi>&amp;c.)</hi> as in your <hi>Merc. June</hi> 7. 2. <hi>And that the Quakers Worſhip each other, Pray to Man, Worſhip Man,</hi> &amp;c. 3. <hi>And that they deny the diſtinct Exiſtence of the Soul after Death.</hi> 4. <hi>And that they hold its intirely abſorpt in God, and to loſe its Individuation.</hi> 5. <hi>And that they reſt on their own Merits,</hi> Merc. June, 14. With many more notorious and known Falſhoods, and lying Stories and Defarnations caſt upon us, in your Accuſations and Charges, both in this your Mercury of <hi>June,</hi> 14. and the other two preceeding (al<g ref="char:EOLhyphen"/>ready anſwer'd by us) for which we ſay, The Lord rebuke you, and grant you Repentance and Forgiveneſs.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>NOW you, our obſcure Adverſaries, or <hi>Athenian</hi> Mercury Wri<g ref="char:EOLhyphen"/>ters, We, whoſe Names are under-written, do fairly Propoſe to you, (that it may appear to the World, that we are not aſhamed of our Chriſtian Principles and Profeſſion, nor affraid to ſtand by and defend them againſt your Perverſions, Oppoſitions and Clamo<g ref="char:EOLhyphen"/>rous Reproaches) to own <hi>what</hi> you have writ or may write againſt us, by ſubſcribing your real Names to the ſame, and not lye lurking in obſcurity and ſmiting in the dark, if you dare own and ſtand by all you write againſt us, or intend it to be of any credit, that we may know where to find you, and more readily ſhew you your Miſtakes. And, as perſons well known in and about this City, we hereunto ſub<g ref="char:EOLhyphen"/>ſcribe our Names,</p>
+            </div>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Charles Bathurſt,</item>
+                     <item>Iohn Edridge,</item>
+                     <item>William Meade,</item>
+                     <item>Theodor Eccleſton,</item>
+                     <item>William Ingram,</item>
+                     <item>William Crouch,</item>
+                     <item>George Whitehea<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</item>
+                     <item>Walter Lenthal,</item>
+                     <item>Thomas Barker.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Northcott</hi> in <hi>George-yard</hi> in <hi>Lombard-ſtreet,</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
